@@ -17,4 +17,4 @@ expo install
 
 ## Работа программы
 
-![image](../images/navigation.gif)
+<img src="../images/navigation.gif" alt="image" width="200"/>
